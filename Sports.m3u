@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="win" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="LIVE",win
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-name="Go LIve" tvg-id="1" tvg-logo="https://costly-white-chmvgbzz.edgeone.dev/photo_6179294230900051557_m.jpg" group-title="LIVE",Go LIve
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-name="SOMOY TV" tvg-id="2" tvg-logo="https://somoy.edgeone.dev/SOMOY%20TV.png" group-title="LIVE",SOMOY TV
