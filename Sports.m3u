@@ -5,7 +5,7 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-name="SOMOY TV" tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKFWkrt1PztZw3Pnovasolpu5fyP5Is59gVP0o1uMxA&amp;s=10" group-title="LIVE",SOMOY TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1 tvg-name="United-Sports" tvg-id="3" tvg-logo="http://198.195.239.50/img/channels/USTC-HorizLogo-600.png" group-title="LIVE",United-Sports
+#EXTINF:-1 tvg-name="United-Sports" tvg-id="3" tvg-logo="https://en.wikipedia.org/wiki/United_Sports" group-title="LIVE",United-Sports
 https://vlmpro.github.io/plink/play.html
 #EXTINF:-1 tvg-name="win" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports Football",win
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
